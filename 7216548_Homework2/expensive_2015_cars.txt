@@ -1,0 +1,2 @@
+1, Toyota, Camry, 2015, White, 20000.0, ABC123
+10, Mercedes-Benz, C-Class, 2015, White, 30000.0, YZA171
